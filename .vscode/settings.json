@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e7d02771-88d3-4161-b511-3a3f1cfedc57/resourceGroups/Demo/providers/Microsoft.Web/sites/ArshChats",
+    "appService.deploySubpath": "."
+}
